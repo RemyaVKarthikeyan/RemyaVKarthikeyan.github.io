@@ -10,10 +10,10 @@ Below, you'll find some of my highlighted work:
 
 ## Projects
 
-### Project 1: My Awesome Project
+### AgniKul Project
 
 [![Project 1](link-to-image.png)](link-to-project-repo)
-Description of Project 1.
+Inverter design for induction motor drive in rocket propulsion system
 
 ### Project 2: Another Cool Project
 
