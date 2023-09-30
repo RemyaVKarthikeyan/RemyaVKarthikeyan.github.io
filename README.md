@@ -9,16 +9,17 @@ Currently, I am looking forward to establishing myself in the field of Data Scie
 Below, you'll find some of my highlighted work:
 
 ## Projects
-
-### AgniKul Project
-
-[[Project 1](https://agnikul.in/#/)
+[Agnikul Project :](https://agnikul.in/#/)
 Inverter design for induction motor drive in rocket propulsion system
 
-### Project 2: Another Cool Project
+[Research Project :](https://link.springer.com/article/10.1007/s13369-017-2841-3)
+Dynamic Voltage Restorer (DVR) for Power Quality (PQ) mitigation
 
-[![Project 2](link-to-image.png)](link-to-project-repo)
-Description of Project 2.
+[Research Project :](https://ieeexplore.ieee.org/document/8707905)
+Two-Phase Semi-Z Source Inverter based Dynamic Voltage Restorer
+
+[Research Project :](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529017)
+Comparative study of Full-Bridge Inverter and Semi-Z-Source Inverter based Dynamic Voltage Restorers
 
 ## Skills
 
@@ -28,7 +29,7 @@ Description of Project 2.
 
 ## Contact Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/remya-vk-b1188621/)
+- LinkedIn: [Remya V K](https://www.linkedin.com/in/remya-vk-b1188621/)
 - Email: remyavkarthikeyan@email.com
 
 Feel free to explore my projects and get in touch!
