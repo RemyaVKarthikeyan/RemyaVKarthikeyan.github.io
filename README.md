@@ -3,7 +3,7 @@
 Welcome to my GitHub portfolio! 
 
 
-  I am a Data Science post-graduate student at the University of Salford,currently focusing on Machine Learning, Data Mining, Applied Statistics, and Data Visualization. I forayed into the stream of Data Science from an electrical engineering background. I hold a doctoral degree in electrical engineering from the National Institute of Technology Karnataka, India. I am good at writing, and doing research-oriented work. Currently, I am looking forward to establishing myself in the field of Data Science.
+  I am a Data Science post-graduate student at the University of Salford,currently focusing on Machine Learning, Data Mining, Applied Statistics, and Data Visualization. I forayed into the stream of Data Science from an electrical engineering background. I hold a doctoral degree in electrical engineering from the National Institute of Technology Karnataka, India. I am good at technical writing, and doing research-oriented work. Currently, I am looking forward to establishing myself in the field of Data Science.
 
 Below, you'll find some of my highlighted work :
 
@@ -29,7 +29,7 @@ Comparative study of Full-Bridge Inverter and Semi-Z-Source Inverter based Dynam
 ## Contact Me
 
 - LinkedIn: [Remya V K](https://www.linkedin.com/in/remya-vk-b1188621/)
-- Email: remyavkarthikeyan@email.com
+- Email: remyavkarthikeyan@gmail.com
 
 Feel free to explore my projects and get in touch!
 
