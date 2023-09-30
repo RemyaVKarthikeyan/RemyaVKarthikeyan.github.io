@@ -12,7 +12,7 @@ Below, you'll find some of my highlighted work:
 
 ### AgniKul Project
 
-[![Project 1](link-to-image.png)](link-to-project-repo)
+[![Project 1]](https://agnikul.in/#/)
 Inverter design for induction motor drive in rocket propulsion system
 
 ### Project 2: Another Cool Project
