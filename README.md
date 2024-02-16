@@ -28,7 +28,7 @@ Comparative study of Full-Bridge Inverter and Semi-Z-Source Inverter based Dynam
 
 ## Contact Me
 
-- LinkedIn: [Remya V K](https://www.linkedin.com/in/remya-vk-b1188621/)
+- LinkedIn: [Remya V K](https://www.linkedin.com/in/remyavkarthikeyan/)
 - Email: remyavkarthikeyan@gmail.com
 
 Feel free to explore my projects and get in touch!
